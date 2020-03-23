@@ -2,7 +2,7 @@ Docker image for Azure Pipelines, created by following the [official documentati
 
 ## Build
 
-`cd dockeragent`
+`cd dockeragent`  
 `docker build -t vfabing/dockeragent .`
 
 ## Push manually to Docker Hub
